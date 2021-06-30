@@ -1,0 +1,6 @@
+,0
+BaseSpread,3
+MaxIdleSpread,150
+MaxWalkSpread,300
+SpreadSpeed,100
+SpreadCooldown,50
